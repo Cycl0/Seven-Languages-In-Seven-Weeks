@@ -1,0 +1,42 @@
+Community
+The community that grows up around a programming language is one of its most important strengths. Ruby has a vibrant and growing community that is friendly towards people of all skill levels.
+
+If you are interested in getting involved, here are a couple of places to start:
+
+Ruby User Groups
+Your local Ruby user group is a great place to network with other Ruby programmers. Ruby user groups are self-organizing and typically feature monthly meetings, a mailing list, a Web site, and if you are lucky, frequent codefests.
+Ruby Mailing Lists and Newsgroups
+Ruby has an assortment of lists on different topics and in several languages. If you have questions about Ruby, asking them on a mailing list is a great way to get answers.
+Ruby Discord Server (invite link)
+The Ruby Language Discord Server is a place where you can chat with other Rubyists, get help with Ruby questions, or help others. Discord is a good entry point for new developers and it is easy to join.
+Ruby on IRC (#ruby)
+The Ruby Language IRC Channel is a wonderful way to chat with fellow Rubyists.
+Ruby Core
+Now is a fantastic time to follow Ruby’s development. If you are interested in helping with Ruby, start here.
+Ruby Blogs
+Very little happens in the Ruby community that is not talked about on the blogs. We’ve got a nice list of suggestions for you here for getting plugged in.
+Ruby Conferences
+Ruby programmers around the world are getting involved in more and more conferences, where they get together to share reports on work-in-progress, discuss the future of Ruby, and welcome newcomers to the Ruby community.
+Podcasts
+If you prefer to listen to discussions about Ruby rather than read, you can tune into one of these awesome Ruby podcasts. These Rubyists use their podcasts to cover new releases, community news, and interview their fellow Ruby developers.
+General Ruby Information
+Ruby Central
+Ruby at Open Directory Project
+Rails at Open Directory Project
+Get Started, it's easy!
+Try Ruby! (in your browser)
+Ruby in Twenty Minutes
+Ruby from Other Languages
+Explore a new world…
+Documentation
+Academic Research
+Libraries
+Success Stories
+Participate in a friendly and growing community.
+Mailing Lists: Talk about Ruby with programmers from all around the world.
+User Groups: Get in contact with Rubyists in your area.
+Blogs: Read about what’s happening right now in the Ruby community.
+Ruby Core: Help polish the rough edges of the latest Ruby.
+Issue Tracking: Report or help solve issues in Ruby.
+Syndicate
+Recent News (RSS)
